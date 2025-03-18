@@ -63,7 +63,7 @@ Total Salary: $1500.00
 ## **Summary**
 | Class | Attributes | `calculate_salary()` Logic |
 |--------|-------------|---------------------------|
-| **Employee** | `employee_id`, `name`, `department` | --- |
+| **Employee** | `employee_id`, `name`, `department` | abstract method |
 | **PermanentEmployee** | `basic_salary`, `bonus` | `basic_salary + bonus` |
 | **ContractEmployee** | `hourly_rate`, `hours_worked` | `hourly_rate * hours_worked` |
 | **Intern** | `stipend` | Fixed `stipend` |
