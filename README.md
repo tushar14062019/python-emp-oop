@@ -27,13 +27,6 @@ Each employee has a **salary structure**, but the method to **calculate salary**
 
 ## **Sample Output**
 ```
-__init__ of Employee
-__init__ of PermanentEmployee
-__init__ of Employee
-__init__ of ContractEmployee
-__init__ of Employee
-__init__ of Intern
-
 --- Employee Details ---
 Employee ID: P123
 Name: Alice Johnson
